@@ -1,7 +1,7 @@
 1)
-Commit : serve para colecionar alterações realizadas no GitHub. 
+Commit : serve para colecionar alteracoes realizadas no GitHub. 
 
-Exemplo: " Resolução da atividade "
+Exemplo: " Resolucao da atividade "
 
 
 
