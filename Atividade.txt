@@ -1,0 +1,8 @@
+1)
+Commit : serve para colecionar alterações realizadas no GitHub. 
+
+Exemplo: " Resolução da atividade "
+
+
+
+2) Para sincronizar o arquivo 
